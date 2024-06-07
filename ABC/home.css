@@ -1,0 +1,82 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: size 14px;
+    background-image: url("images/BG.jpg");
+    background-size: cover;
+    color: #ffffff;
+  }
+
+.name {
+    width: 80%;
+    height: 4rem;
+    padding-top: 270px;
+    padding-left: 100px;
+    margin-bottom: 20px;
+    display: flex;
+    padding: opx 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+  }
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.bag {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.content {
+    width: 20%;
+    margin:15px ;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
+    padding-top: 10px;
+    box-shadow: 0 14px 28px rgba(255, 255, 255, 5);
+    transition: .4s;
+    background: #1d1d1d;
+}
+
+.content:hover{
+    transform: translate(0px, -8px);
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    margin: o auto;
+    display: block;
+    border-radius: 20px;
+}
+
+button {
+    width: 107%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+  }
+  
+button:hover {
+    background-color: #000000;
+    color: #ffffff;
+  }

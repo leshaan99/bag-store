@@ -1,0 +1,44 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: size 14px;
+    background-image: url("images/BG.jpg");
+    background-size: cover;
+    color: #ffffff;
+  }
+
+main {
+    width: 60%;
+    margin: 250px auto;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(2px);
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    text-align: center;
+    align-items: center;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+
+  th{
+    background-color: black;
+  }
+
+  a{
+    color: #ffffff;
+  }
