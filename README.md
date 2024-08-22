@@ -1,2 +1,2 @@
 # Bag_Store
-I create the a simple web-based application create using PHP, HTML, CSS. This website have customer, admin and super admin view. Super admin can handle the admins. Admin can handle the customers and add product, delete product and update product. Customers can view and buy the products.
+Built a web application using PHP, HTML, and CSS with distinct customer and admin views. The super admin manages admins, while admins handle customer interactions and product management. Customers can easily browse and purchase products.
